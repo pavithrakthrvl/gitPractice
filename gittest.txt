@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 new test file
+=======
+new test file
+
+new line to check
+>>>>>>> parent of 0a07d83... git commit chages
