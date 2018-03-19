@@ -3,5 +3,9 @@ new test file
 =======
 new test file
 
+<<<<<<< HEAD
+new line to check
+>>>>>>> parent of 0a07d83... git commit chages
+=======
 new line to check
 >>>>>>> parent of 0a07d83... git commit chages
